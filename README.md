@@ -87,7 +87,8 @@ https://docs.google.com/spreadsheets/d/1znXiTkj7muAc_n7dy8HfWOKHua4c7v2M7ZChhNW1
   <img src="https://github.com/Elya-QA/Portfolio_QA_Engineer/assets/153206402/44ed3847-8137-4b0b-ba79-905db5d44af6" width=45% height=45% alt="2">
 </div> </p>
 
-## Коллекция Postman: (ссылка на json-файл на Yandex disk) https://disk.yandex.kz/d/Am5Mw37oMBvPTg 
+## Коллекция Postman: 
+Ссылка на json-файл на Yandex disk: https://disk.yandex.kz/d/Am5Mw37oMBvPTg 
 <p> <div class="img-div">
   <img src="https://github.com/Elya-QA/Portfolio_QA_Engineer/assets/153206402/723c558b-f096-4fed-a21f-12f083230948" width=45% height=45% alt="1">
   <img src="https://github.com/Elya-QA/Portfolio_QA_Engineer/assets/153206402/fd693645-759f-4767-8fad-8d778b84b88f" width=45% height=45% alt="2">
